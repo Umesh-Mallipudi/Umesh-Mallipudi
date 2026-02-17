@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-9&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-9" /> </p>
 
-- 🔭 I’m currently working on [Van Life app](https://reliable-narwhal-733d98.netlify.app/)
+- 🔭 I’m currently working IBM
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Devops**
 
 - 📫 How to reach me **umeshnaidumallipudi@gmail.com**
 
